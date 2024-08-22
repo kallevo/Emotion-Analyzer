@@ -1,1 +1,3 @@
-Emotion Analyzer is a Chrome extension that detects and displays the primary emotion behind highlighted text. Simply highlight any text on a webpage, and the extension will analyze it in real-time, showing an emoji that represents the detected emotion.
+# Emotion Analyzer
+
+**Emotion Analyzer** is a Chrome extension that detects and displays the primary emotion behind highlighted text on any webpage. 
